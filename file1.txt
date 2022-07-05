@@ -3,3 +3,5 @@ c-language
 python
 java
 c++
+pascal
+rubby
